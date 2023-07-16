@@ -2,11 +2,11 @@
 
 ## Terms
 
-Belief - a proposition that a person holds as true
-Evidence - data or information that supports or contradicts a belief
-Bias - a predisposition or prejudice in favor of or against a particular idea
-Instrumental rationality - the ability to choose the best available means to achieve a given goal
-Epistemic rationality - the ability to form and update beliefs in the direction of the truth
+**Belief** - a proposition that a person holds as true
+**Evidence** - data or information that supports or contradicts a belief
+**Bias** - a predisposition or prejudice in favor of or against a particular idea
+**Instrumental rationality** - the ability to choose the best available means to achieve a given goal
+**Epistemic rationality** - the ability to form and update beliefs in the direction of the truth
 
 ## Start questions
 
